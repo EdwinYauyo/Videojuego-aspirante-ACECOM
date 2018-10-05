@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5C268144-B96A-DC7A-F3D4-8559260F3C2D}</ProjectGuid>
+    <ProjectGuid>{6D0266A7-5469-B116-829E-6BDB453FF95E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -46,7 +46,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\CheckInGround.cs" />
      <Compile Include="Assets\Scripts\CoinT.cs" />
+     <Compile Include="Assets\Scripts\ControllerSonic2.cs" />
      <Compile Include="Assets\Scripts\SonicController.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity2018/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
