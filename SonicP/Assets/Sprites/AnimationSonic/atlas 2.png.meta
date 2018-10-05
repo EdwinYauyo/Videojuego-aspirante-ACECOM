@@ -1,0 +1,2987 @@
+fileFormatVersion: 2
+guid: 5da374a4f9b0e084eb686f6d354d345e
+timeCreated: 1538003740
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atlas 2_4
+    21300002: atlas 2_5
+    21300004: atlas 2_6
+    21300006: atlas 2_7
+    21300008: atlas 2_8
+    21300010: atlas 2_9
+    21300012: atlas 2_10
+    21300014: atlas 2_11
+    21300016: atlas 2_12
+    21300018: atlas 2_13
+    21300020: atlas 2_14
+    21300022: atlas 2_15
+    21300024: atlas 2_16
+    21300026: atlas 2_17
+    21300028: atlas 2_18
+    21300030: atlas 2_19
+    21300032: atlas 2_20
+    21300034: atlas 2_21
+    21300036: atlas 2_22
+    21300038: atlas 2_23
+    21300040: atlas 2_24
+    21300042: atlas 2_25
+    21300044: atlas 2_26
+    21300046: atlas 2_27
+    21300048: atlas 2_28
+    21300050: atlas 2_29
+    21300052: atlas 2_30
+    21300054: atlas 2_31
+    21300056: atlas 2_32
+    21300058: atlas 2_33
+    21300060: atlas 2_34
+    21300062: atlas 2_35
+    21300064: atlas 2_36
+    21300066: atlas 2_37
+    21300068: atlas 2_38
+    21300070: atlas 2_39
+    21300072: atlas 2_40
+    21300074: atlas 2_41
+    21300076: atlas 2_42
+    21300078: atlas 2_43
+    21300080: atlas 2_44
+    21300082: atlas 2_45
+    21300084: atlas 2_46
+    21300086: atlas 2_47
+    21300088: atlas 2_48
+    21300090: atlas 2_49
+    21300092: atlas 2_50
+    21300094: atlas 2_51
+    21300096: atlas 2_52
+    21300098: atlas 2_53
+    21300100: atlas 2_54
+    21300102: atlas 2_55
+    21300104: atlas 2_56
+    21300106: atlas 2_57
+    21300108: atlas 2_58
+    21300110: atlas 2_59
+    21300112: atlas 2_60
+    21300114: atlas 2_61
+    21300116: atlas 2_62
+    21300118: atlas 2_63
+    21300120: atlas 2_64
+    21300122: atlas 2_65
+    21300124: atlas 2_66
+    21300126: atlas 2_67
+    21300128: atlas 2_68
+    21300130: atlas 2_69
+    21300132: atlas 2_70
+    21300134: atlas 2_71
+    21300136: atlas 2_72
+    21300138: atlas 2_73
+    21300140: atlas 2_74
+    21300142: atlas 2_75
+    21300144: atlas 2_76
+    21300146: atlas 2_77
+    21300148: atlas 2_78
+    21300150: atlas 2_79
+    21300152: atlas 2_80
+    21300154: atlas 2_81
+    21300156: atlas 2_82
+    21300158: atlas 2_83
+    21300160: atlas 2_84
+    21300162: atlas 2_85
+    21300164: atlas 2_86
+    21300166: atlas 2_87
+    21300168: atlas 2_88
+    21300170: atlas 2_89
+    21300172: atlas 2_90
+    21300174: atlas 2_91
+    21300176: atlas 2_92
+    21300178: atlas 2_93
+    21300180: atlas 2_94
+    21300182: atlas 2_95
+    21300184: atlas 2_96
+    21300186: atlas 2_97
+    21300188: atlas 2_98
+    21300190: atlas 2_99
+    21300192: atlas 2_100
+    21300194: atlas 2_101
+    21300196: atlas 2_102
+    21300198: atlas 2_103
+    21300200: atlas 2_104
+    21300202: atlas 2_105
+    21300204: atlas 2_106
+    21300206: atlas 2_107
+    21300208: atlas 2_108
+    21300210: atlas 2_109
+    21300212: atlas 2_110
+    21300214: atlas 2_111
+    21300216: atlas 2_112
+    21300218: atlas 2_113
+    21300220: atlas 2_114
+    21300222: atlas 2_115
+    21300224: atlas 2_116
+    21300226: atlas 2_117
+    21300228: atlas 2_118
+    21300230: atlas 2_119
+    21300232: atlas 2_120
+    21300234: atlas 2_121
+    21300236: atlas 2_122
+    21300238: atlas 2_123
+    21300240: atlas 2_124
+    21300242: atlas 2_125
+    21300244: atlas 2_126
+    21300246: atlas 2_127
+    21300248: atlas 2_128
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 27
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlas 2_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 605
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 605
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 605
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 605
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 605
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_9
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 605
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_10
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 605
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 605
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_12
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 605
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 605
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 605
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_15
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 605
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_16
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 605
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_17
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 605
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_18
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 605
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 541
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 541
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 541
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_22
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 541
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 541
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_24
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 541
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_25
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 541
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_26
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 541
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_27
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 541
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_28
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 541
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_29
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 541
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_30
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 541
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_31
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 541
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_32
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 541
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 477
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 477
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 477
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_36
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 477
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_37
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 477
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_38
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 477
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_39
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 477
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_40
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 477
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_41
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 480
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_42
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 477
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_43
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 477
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_44
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 477
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_45
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 479
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_46
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 477
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 413
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 413
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 413
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 413
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_51
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 413
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_52
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 413
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 413
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_54
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 413
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_55
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 413
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_56
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 413
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_57
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 413
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_58
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 413
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_59
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 413
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_60
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 413
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 349
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_62
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 349
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_63
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 350
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_64
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 349
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_65
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 349
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_66
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 349
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_67
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 351
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_68
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 349
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_69
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 349
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_70
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 349
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_71
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 349
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_72
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 349
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_73
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 349
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_74
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 285
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_75
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 285
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_76
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 285
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_77
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 285
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_78
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 285
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_79
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 285
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_80
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 285
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_81
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 285
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_82
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 285
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_83
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 285
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_84
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 285
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_85
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 285
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_86
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 221
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_87
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 221
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_88
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 221
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_89
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 222
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_90
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 221
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_91
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 221
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_92
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 221
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_93
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 222
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_94
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 221
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_95
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 221
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_96
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 221
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_97
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 221
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_98
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 221
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_99
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 221
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_100
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 221
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 157
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_102
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 157
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_103
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 157
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_104
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 157
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_105
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 157
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_106
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 157
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_107
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 157
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_108
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 157
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_109
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 157
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_110
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 157
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_111
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 157
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_112
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 157
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_113
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 157
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_114
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 157
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_115
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 157
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_116
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 92
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_117
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 93
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_118
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_119
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 93
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_120
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 93
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_121
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 93
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_122
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 92
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_123
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 92
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_124
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 92
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_125
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 92
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_126
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 97
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_127
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 97
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas 2_128
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 97
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 298, y: -267.5}
+      - {x: 298, y: -342.5}
+      - {x: 375, y: -342.5}
+      - {x: 375, y: -265.5}
+      - {x: 300, y: -265.5}
+    - - {x: -208, y: -282.5}
+      - {x: -224, y: -282.5}
+      - {x: -224, y: -328.5}
+      - {x: -198, y: -328.5}
+      - {x: -187, y: -308.5}
+      - {x: -187, y: -300.5}
+      - {x: -199, y: -286.5}
+    - - {x: -148, y: -294.5}
+      - {x: -175, y: -294.5}
+      - {x: -175, y: -307.5}
+      - {x: -169, y: -317.5}
+      - {x: -109, y: -317.5}
+      - {x: -109, y: -298.5}
+    - - {x: -104, y: -296.5}
+      - {x: -106, y: -298.5}
+      - {x: -106, y: -310.5}
+      - {x: -103, y: -317.5}
+      - {x: -80, y: -317.5}
+      - {x: -77, y: -316.5}
+      - {x: -77, y: -303.5}
+      - {x: -80, y: -296.5}
+    - - {x: -48, y: -294.5}
+      - {x: -72, y: -298.5}
+      - {x: -73, y: -302.5}
+      - {x: -73, y: -317.5}
+      - {x: -27, y: -317.5}
+      - {x: -19, y: -306.5}
+      - {x: -18, y: -303.5}
+      - {x: -18, y: -294.5}
+    - - {x: -9, y: -295.5}
+      - {x: -12, y: -296.5}
+      - {x: -12, y: -314.5}
+      - {x: -11, y: -317.5}
+      - {x: 41, y: -317.5}
+      - {x: 44, y: -316.5}
+      - {x: 44, y: -299.5}
+      - {x: 34, y: -295.5}
+    - - {x: 104, y: -294.5}
+      - {x: 91, y: -294.5}
+      - {x: 54, y: -299.5}
+      - {x: 48, y: -302.5}
+      - {x: 48, y: -313.5}
+      - {x: 49, y: -317.5}
+      - {x: 121, y: -317.5}
+      - {x: 121, y: -299.5}
+      - {x: 116, y: -295.5}
+    - - {x: -353, y: -204.5}
+      - {x: -361, y: -208.5}
+      - {x: -361, y: -229.5}
+      - {x: -351, y: -249.5}
+      - {x: -347, y: -252.5}
+      - {x: -339, y: -250.5}
+      - {x: -337, y: -243.5}
+      - {x: -337, y: -210.5}
+      - {x: -345, y: -204.5}
+    - - {x: -106, y: -204.5}
+      - {x: -120, y: -204.5}
+      - {x: -124, y: -206.5}
+      - {x: -124, y: -252.5}
+      - {x: -112, y: -252.5}
+      - {x: -101, y: -241.5}
+      - {x: -100, y: -230.5}
+      - {x: -100, y: -205.5}
+    - - {x: -70, y: -204.5}
+      - {x: -78, y: -204.5}
+      - {x: -86, y: -211.5}
+      - {x: -88, y: -225.5}
+      - {x: -88, y: -236.5}
+      - {x: -85, y: -250.5}
+      - {x: -80, y: -252.5}
+      - {x: -68, y: -252.5}
+      - {x: -60, y: -237.5}
+      - {x: -60, y: -232.5}
+      - {x: -63, y: -208.5}
+    - - {x: -39, y: -204.5}
+      - {x: -48, y: -224.5}
+      - {x: -48, y: -240.5}
+      - {x: -40, y: -252.5}
+      - {x: -15, y: -252.5}
+      - {x: -15, y: -204.5}
+    - - {x: 9, y: -204.5}
+      - {x: 2, y: -206.5}
+      - {x: -3, y: -209.5}
+      - {x: -3, y: -244.5}
+      - {x: 0, y: -252.5}
+      - {x: 22, y: -252.5}
+      - {x: 25, y: -248.5}
+      - {x: 25, y: -213.5}
+      - {x: 21, y: -204.5}
+    - - {x: -321, y: -205.5}
+      - {x: -324, y: -207.5}
+      - {x: -324, y: -241.5}
+      - {x: -318, y: -251.5}
+      - {x: -300, y: -251.5}
+      - {x: -300, y: -210.5}
+      - {x: -304, y: -205.5}
+    - - {x: -272, y: -204.5}
+      - {x: -281, y: -204.5}
+      - {x: -288, y: -207.5}
+      - {x: -288, y: -236.5}
+      - {x: -284, y: -251.5}
+      - {x: -268, y: -251.5}
+      - {x: -259, y: -243.5}
+      - {x: -259, y: -220.5}
+      - {x: -261, y: -212.5}
+    - - {x: -221, y: -205.5}
+      - {x: -240, y: -205.5}
+      - {x: -247, y: -215.5}
+      - {x: -247, y: -243.5}
+      - {x: -241, y: -250.5}
+      - {x: -239, y: -251.5}
+      - {x: -220, y: -251.5}
+      - {x: -214, y: -242.5}
+      - {x: -214, y: -225.5}
+      - {x: -217, y: -209.5}
+    - - {x: -189, y: -204.5}
+      - {x: -196, y: -209.5}
+      - {x: -202, y: -225.5}
+      - {x: -202, y: -242.5}
+      - {x: -194, y: -251.5}
+      - {x: -173, y: -251.5}
+      - {x: -173, y: -205.5}
+      - {x: -176, y: -204.5}
+    - - {x: -158, y: -205.5}
+      - {x: -161, y: -208.5}
+      - {x: -161, y: -250.5}
+      - {x: -158, y: -251.5}
+      - {x: -147, y: -251.5}
+      - {x: -137, y: -235.5}
+      - {x: -137, y: -211.5}
+      - {x: -145, y: -205.5}
+    - - {x: 45, y: -207.5}
+      - {x: 45, y: -238.5}
+      - {x: 53, y: -247.5}
+      - {x: 81, y: -247.5}
+      - {x: 86, y: -243.5}
+      - {x: 86, y: -214.5}
+      - {x: 84, y: -207.5}
+    - - {x: 104, y: -208.5}
+      - {x: 99, y: -219.5}
+      - {x: 99, y: -230.5}
+      - {x: 105, y: -244.5}
+      - {x: 109, y: -247.5}
+      - {x: 132, y: -247.5}
+      - {x: 140, y: -243.5}
+      - {x: 140, y: -216.5}
+      - {x: 137, y: -208.5}
+    - - {x: 180, y: -207.5}
+      - {x: 165, y: -207.5}
+      - {x: 157, y: -209.5}
+      - {x: 152, y: -213.5}
+      - {x: 152, y: -243.5}
+      - {x: 153, y: -247.5}
+      - {x: 191, y: -247.5}
+      - {x: 193, y: -246.5}
+      - {x: 193, y: -221.5}
+      - {x: 187, y: -209.5}
+    - - {x: -341, y: -148.5}
+      - {x: -356, y: -148.5}
+      - {x: -360, y: -151.5}
+      - {x: -361, y: -153.5}
+      - {x: -361, y: -170.5}
+      - {x: -356, y: -187.5}
+      - {x: -331, y: -187.5}
+      - {x: -331, y: -156.5}
+      - {x: -332, y: -151.5}
+    - - {x: -297, y: -149.5}
+      - {x: -312, y: -149.5}
+      - {x: -319, y: -153.5}
+      - {x: -319, y: -187.5}
+      - {x: -295, y: -187.5}
+      - {x: -292, y: -182.5}
+      - {x: -291, y: -180.5}
+      - {x: -291, y: -161.5}
+    - - {x: -260, y: -157.5}
+      - {x: -271, y: -158.5}
+      - {x: -279, y: -164.5}
+      - {x: -279, y: -186.5}
+      - {x: -278, y: -187.5}
+      - {x: -250, y: -187.5}
+      - {x: -248, y: -175.5}
+      - {x: -248, y: -165.5}
+      - {x: -256, y: -157.5}
+    - - {x: -228, y: -154.5}
+      - {x: -228, y: -175.5}
+      - {x: -227, y: -180.5}
+      - {x: -222, y: -187.5}
+      - {x: -203, y: -187.5}
+      - {x: -197, y: -185.5}
+      - {x: -196, y: -183.5}
+      - {x: -196, y: -160.5}
+      - {x: -202, y: -154.5}
+    - - {x: -177, y: -152.5}
+      - {x: -183, y: -158.5}
+      - {x: -183, y: -174.5}
+      - {x: -177, y: -187.5}
+      - {x: -154, y: -187.5}
+      - {x: -147, y: -184.5}
+      - {x: -147, y: -161.5}
+      - {x: -157, y: -152.5}
+    - - {x: -124, y: -151.5}
+      - {x: -132, y: -155.5}
+      - {x: -134, y: -161.5}
+      - {x: -134, y: -176.5}
+      - {x: -123, y: -187.5}
+      - {x: -102, y: -187.5}
+      - {x: -92, y: -176.5}
+      - {x: -92, y: -151.5}
+    - - {x: -48, y: -165.5}
+      - {x: -48, y: -154.5}
+      - {x: -50, y: -152.5}
+      - {x: -66, y: -152.5}
+      - {x: -80, y: -160.5}
+      - {x: -80, y: -174.5}
+      - {x: -79, y: -178.5}
+      - {x: -69, y: -187.5}
+      - {x: -46, y: -187.5}
+      - {x: -37, y: -178.5}
+      - {x: -37, y: -158.5}
+      - {x: -39, y: -153.5}
+      - {x: -44, y: -155.5}
+      - {x: -48, y: -160.5}
+    - - {x: 4, y: -139.5}
+      - {x: -3, y: -139.5}
+      - {x: -17, y: -146.5}
+      - {x: -17, y: -165.5}
+      - {x: -8, y: -187.5}
+      - {x: 5, y: -187.5}
+      - {x: 10, y: -184.5}
+      - {x: 11, y: -182.5}
+      - {x: 13, y: -174.5}
+      - {x: 13, y: -147.5}
+    - - {x: 25, y: -159.5}
+      - {x: 29, y: -168.5}
+      - {x: 34, y: -187.5}
+      - {x: 53, y: -187.5}
+      - {x: 53, y: -138.5}
+      - {x: 35, y: -138.5}
+      - {x: 25, y: -148.5}
+    - - {x: 87, y: -140.5}
+      - {x: 72, y: -140.5}
+      - {x: 66, y: -142.5}
+      - {x: 66, y: -161.5}
+      - {x: 75, y: -187.5}
+      - {x: 92, y: -187.5}
+      - {x: 94, y: -186.5}
+      - {x: 96, y: -175.5}
+      - {x: 96, y: -155.5}
+      - {x: 94, y: -143.5}
+    - - {x: 113, y: -135.5}
+      - {x: 108, y: -142.5}
+      - {x: 108, y: -167.5}
+      - {x: 116, y: -186.5}
+      - {x: 121, y: -187.5}
+      - {x: 133, y: -187.5}
+      - {x: 139, y: -175.5}
+      - {x: 139, y: -140.5}
+      - {x: 124, y: -135.5}
+    - - {x: 151, y: -167.5}
+      - {x: 161, y: -187.5}
+      - {x: 175, y: -187.5}
+      - {x: 182, y: -176.5}
+      - {x: 182, y: -143.5}
+      - {x: 181, y: -141.5}
+      - {x: 167, y: -136.5}
+      - {x: 155, y: -136.5}
+      - {x: 151, y: -141.5}
+    - - {x: 232, y: -137.5}
+      - {x: 208, y: -137.5}
+      - {x: 202, y: -144.5}
+      - {x: 202, y: -175.5}
+      - {x: 212, y: -187.5}
+      - {x: 234, y: -187.5}
+      - {x: 242, y: -166.5}
+      - {x: 242, y: -143.5}
+      - {x: 240, y: -140.5}
+    - - {x: 263, y: -135.5}
+      - {x: 254, y: -139.5}
+      - {x: 254, y: -160.5}
+      - {x: 262, y: -179.5}
+      - {x: 270, y: -187.5}
+      - {x: 281, y: -187.5}
+      - {x: 294, y: -161.5}
+      - {x: 294, y: -143.5}
+      - {x: 284, y: -135.5}
+    - - {x: 332, y: -137.5}
+      - {x: 306, y: -137.5}
+      - {x: 306, y: -187.5}
+      - {x: 333, y: -187.5}
+      - {x: 346, y: -162.5}
+      - {x: 346, y: -143.5}
+      - {x: 345, y: -141.5}
+    - - {x: -336, y: -89.5}
+      - {x: -356, y: -89.5}
+      - {x: -361, y: -95.5}
+      - {x: -361, y: -115.5}
+      - {x: -359, y: -123.5}
+      - {x: -334, y: -123.5}
+      - {x: -327, y: -114.5}
+      - {x: -327, y: -102.5}
+      - {x: -330, y: -90.5}
+    - - {x: -289, y: -89.5}
+      - {x: -304, y: -89.5}
+      - {x: -310, y: -95.5}
+      - {x: -308, y: -98.5}
+      - {x: -305, y: -98.5}
+      - {x: -311, y: -100.5}
+      - {x: -313, y: -102.5}
+      - {x: -313, y: -116.5}
+      - {x: -308, y: -123.5}
+      - {x: -286, y: -123.5}
+      - {x: -280, y: -113.5}
+      - {x: -280, y: -99.5}
+      - {x: -284, y: -90.5}
+    - - {x: -247, y: -89.5}
+      - {x: -264, y: -89.5}
+      - {x: -268, y: -99.5}
+      - {x: -268, y: -118.5}
+      - {x: -264, y: -123.5}
+      - {x: -234, y: -123.5}
+      - {x: -234, y: -94.5}
+      - {x: -239, y: -91.5}
+    - - {x: -167, y: -89.5}
+      - {x: -170, y: -91.5}
+      - {x: -176, y: -97.5}
+      - {x: -176, y: -107.5}
+      - {x: -168, y: -123.5}
+      - {x: -145, y: -123.5}
+      - {x: -142, y: -122.5}
+      - {x: -142, y: -92.5}
+      - {x: -155, y: -89.5}
+    - - {x: -127, y: -89.5}
+      - {x: -130, y: -96.5}
+      - {x: -130, y: -120.5}
+      - {x: -123, y: -123.5}
+      - {x: -104, y: -123.5}
+      - {x: -98, y: -116.5}
+      - {x: -98, y: -97.5}
+      - {x: -101, y: -89.5}
+    - - {x: -60, y: -89.5}
+      - {x: -76, y: -89.5}
+      - {x: -86, y: -96.5}
+      - {x: -86, y: -113.5}
+      - {x: -82, y: -123.5}
+      - {x: -64, y: -123.5}
+      - {x: -59, y: -121.5}
+      - {x: -52, y: -113.5}
+      - {x: -52, y: -93.5}
+    - - {x: 31, y: -89.5}
+      - {x: 14, y: -89.5}
+      - {x: 6, y: -97.5}
+      - {x: 6, y: -120.5}
+      - {x: 14, y: -123.5}
+      - {x: 34, y: -123.5}
+      - {x: 40, y: -118.5}
+      - {x: 40, y: -96.5}
+      - {x: 35, y: -91.5}
+    - - {x: 79, y: -89.5}
+      - {x: 62, y: -89.5}
+      - {x: 54, y: -97.5}
+      - {x: 54, y: -120.5}
+      - {x: 62, y: -123.5}
+      - {x: 82, y: -123.5}
+      - {x: 88, y: -118.5}
+      - {x: 88, y: -96.5}
+      - {x: 83, y: -91.5}
+    - - {x: 117, y: -79.5}
+      - {x: 109, y: -80.5}
+      - {x: 109, y: -109.5}
+      - {x: 114, y: -123.5}
+      - {x: 145, y: -123.5}
+      - {x: 145, y: -84.5}
+      - {x: 132, y: -79.5}
+    - - {x: 166, y: -81.5}
+      - {x: 158, y: -88.5}
+      - {x: 158, y: -107.5}
+      - {x: 165, y: -123.5}
+      - {x: 197, y: -123.5}
+      - {x: 197, y: -107.5}
+      - {x: 191, y: -89.5}
+      - {x: 179, y: -81.5}
+    - - {x: 217, y: -81.5}
+      - {x: 209, y: -88.5}
+      - {x: 209, y: -107.5}
+      - {x: 216, y: -123.5}
+      - {x: 248, y: -123.5}
+      - {x: 248, y: -107.5}
+      - {x: 242, y: -89.5}
+      - {x: 230, y: -81.5}
+    - - {x: 260, y: -80.5}
+      - {x: 260, y: -123.5}
+      - {x: 285, y: -123.5}
+      - {x: 285, y: -92.5}
+      - {x: 283, y: -80.5}
+    - - {x: 315, y: -82.5}
+      - {x: 309, y: -82.5}
+      - {x: 297, y: -91.5}
+      - {x: 296, y: -96.5}
+      - {x: 296, y: -123.5}
+      - {x: 328, y: -123.5}
+      - {x: 328, y: -92.5}
+    - - {x: -222, y: -90.5}
+      - {x: -222, y: -116.5}
+      - {x: -213, y: -122.5}
+      - {x: -191, y: -122.5}
+      - {x: -188, y: -114.5}
+      - {x: -188, y: -94.5}
+      - {x: -190, y: -90.5}
+    - - {x: -10, y: -93.5}
+      - {x: -21, y: -90.5}
+      - {x: -38, y: -90.5}
+      - {x: -40, y: -96.5}
+      - {x: -40, y: -117.5}
+      - {x: -34, y: -122.5}
+      - {x: -13, y: -122.5}
+      - {x: -7, y: -116.5}
+      - {x: -6, y: -109.5}
+      - {x: -6, y: -100.5}
+    - - {x: -318, y: -39.5}
+      - {x: -318, y: -23.5}
+      - {x: -323, y: -20.5}
+      - {x: -343, y: -20.5}
+      - {x: -360, y: -30.5}
+      - {x: -360, y: -53.5}
+      - {x: -355, y: -59.5}
+      - {x: -329, y: -59.5}
+      - {x: -324, y: -50.5}
+      - {x: -323, y: -43.5}
+      - {x: -324, y: -45.5}
+    - - {x: -285, y: -20.5}
+      - {x: -305, y: -29.5}
+      - {x: -305, y: -40.5}
+      - {x: -300, y: -59.5}
+      - {x: -275, y: -59.5}
+      - {x: -263, y: -48.5}
+      - {x: -263, y: -25.5}
+      - {x: -266, y: -20.5}
+    - - {x: -231, y: -20.5}
+      - {x: -232, y: -23.5}
+      - {x: -233, y: -30.5}
+      - {x: -240, y: -33.5}
+      - {x: -243, y: -34.5}
+      - {x: -243, y: -53.5}
+      - {x: -240, y: -59.5}
+      - {x: -214, y: -59.5}
+      - {x: -209, y: -58.5}
+      - {x: -205, y: -46.5}
+      - {x: -205, y: -20.5}
+    - - {x: -180, y: -20.5}
+      - {x: -193, y: -28.5}
+      - {x: -193, y: -54.5}
+      - {x: -191, y: -59.5}
+      - {x: -175, y: -59.5}
+      - {x: -154, y: -51.5}
+      - {x: -153, y: -49.5}
+      - {x: -153, y: -33.5}
+      - {x: -157, y: -20.5}
+    - - {x: -98, y: -18.5}
+      - {x: -122, y: -18.5}
+      - {x: -133, y: -25.5}
+      - {x: -133, y: -57.5}
+      - {x: -130, y: -59.5}
+      - {x: -105, y: -59.5}
+      - {x: -94, y: -54.5}
+      - {x: -94, y: -31.5}
+      - {x: -96, y: -19.5}
+    - - {x: -52, y: -18.5}
+      - {x: -78, y: -18.5}
+      - {x: -81, y: -29.5}
+      - {x: -81, y: -57.5}
+      - {x: -78, y: -59.5}
+      - {x: -61, y: -59.5}
+      - {x: -42, y: -48.5}
+      - {x: -42, y: -34.5}
+      - {x: -48, y: -20.5}
+    - - {x: 1, y: -20.5}
+      - {x: -13, y: -20.5}
+      - {x: -22, y: -24.5}
+      - {x: -22, y: -48.5}
+      - {x: -19, y: -59.5}
+      - {x: 5, y: -59.5}
+      - {x: 9, y: -54.5}
+      - {x: 9, y: -31.5}
+      - {x: 8, y: -26.5}
+    - - {x: 50, y: -26.5}
+      - {x: 43, y: -21.5}
+      - {x: 38, y: -20.5}
+      - {x: 29, y: -20.5}
+      - {x: 21, y: -27.5}
+      - {x: 21, y: -46.5}
+      - {x: 24, y: -59.5}
+      - {x: 46, y: -59.5}
+      - {x: 56, y: -53.5}
+      - {x: 56, y: -39.5}
+    - - {x: 94, y: -20.5}
+      - {x: 74, y: -20.5}
+      - {x: 69, y: -26.5}
+      - {x: 69, y: -54.5}
+      - {x: 71, y: -59.5}
+      - {x: 96, y: -59.5}
+      - {x: 103, y: -54.5}
+      - {x: 103, y: -27.5}
+      - {x: 102, y: -24.5}
+    - - {x: 121, y: -20.5}
+      - {x: 115, y: -26.5}
+      - {x: 115, y: -44.5}
+      - {x: 118, y: -59.5}
+      - {x: 142, y: -59.5}
+      - {x: 146, y: -55.5}
+      - {x: 146, y: -25.5}
+      - {x: 134, y: -20.5}
+    - - {x: 183, y: -20.5}
+      - {x: 158, y: -20.5}
+      - {x: 158, y: -59.5}
+      - {x: 182, y: -59.5}
+      - {x: 193, y: -53.5}
+      - {x: 193, y: -33.5}
+    - - {x: 211, y: -20.5}
+      - {x: 206, y: -23.5}
+      - {x: 206, y: -59.5}
+      - {x: 240, y: -59.5}
+      - {x: 240, y: -21.5}
+      - {x: 235, y: -20.5}
+    - - {x: -350, y: 43.5}
+      - {x: -356, y: 41.5}
+      - {x: -361, y: 33.5}
+      - {x: -361, y: 9.5}
+      - {x: -359, y: 4.5}
+      - {x: -335, y: 4.5}
+      - {x: -327, y: 8.5}
+      - {x: -327, y: 43.5}
+    - - {x: -305, y: 43.5}
+      - {x: -315, y: 38.5}
+      - {x: -315, y: 4.5}
+      - {x: -290, y: 4.5}
+      - {x: -280, y: 20.5}
+      - {x: -280, y: 41.5}
+      - {x: -290, y: 43.5}
+    - - {x: -191, y: 43.5}
+      - {x: -202, y: 43.5}
+      - {x: -213, y: 42.5}
+      - {x: -219, y: 26.5}
+      - {x: -219, y: 15.5}
+      - {x: -203, y: 4.5}
+      - {x: -181, y: 4.5}
+      - {x: -181, y: 37.5}
+      - {x: -182, y: 39.5}
+    - - {x: -139, y: 41.5}
+      - {x: -144, y: 43.5}
+      - {x: -158, y: 43.5}
+      - {x: -164, y: 42.5}
+      - {x: -169, y: 35.5}
+      - {x: -169, y: 10.5}
+      - {x: -165, y: 4.5}
+      - {x: -143, y: 4.5}
+      - {x: -135, y: 21.5}
+      - {x: -135, y: 32.5}
+      - {x: -136, y: 40.5}
+    - - {x: -113, y: 43.5}
+      - {x: -122, y: 36.5}
+      - {x: -122, y: 4.5}
+      - {x: -93, y: 4.5}
+      - {x: -86, y: 10.5}
+      - {x: -86, y: 40.5}
+      - {x: -94, y: 43.5}
+    - - {x: -8, y: 43.5}
+      - {x: -11, y: 39.5}
+      - {x: -20, y: 23.5}
+      - {x: -20, y: 14.5}
+      - {x: -6, y: 4.5}
+      - {x: 18, y: 4.5}
+      - {x: 18, y: 31.5}
+      - {x: 16, y: 43.5}
+    - - {x: 54, y: 43.5}
+      - {x: 38, y: 38.5}
+      - {x: 38, y: 4.5}
+      - {x: 73, y: 4.5}
+      - {x: 80, y: 17.5}
+      - {x: 80, y: 33.5}
+      - {x: 75, y: 43.5}
+    - - {x: 132, y: 43.5}
+      - {x: 108, y: 43.5}
+      - {x: 93, y: 39.5}
+      - {x: 93, y: 15.5}
+      - {x: 98, y: 4.5}
+      - {x: 123, y: 4.5}
+      - {x: 135, y: 18.5}
+      - {x: 135, y: 38.5}
+      - {x: 133, y: 42.5}
+    - - {x: 165, y: 43.5}
+      - {x: 148, y: 33.5}
+      - {x: 148, y: 8.5}
+      - {x: 152, y: 4.5}
+      - {x: 177, y: 4.5}
+      - {x: 189, y: 8.5}
+      - {x: 190, y: 11.5}
+      - {x: 190, y: 38.5}
+      - {x: 189, y: 43.5}
+    - - {x: 233, y: 43.5}
+      - {x: 219, y: 43.5}
+      - {x: 203, y: 34.5}
+      - {x: 203, y: 22.5}
+      - {x: 208, y: 4.5}
+      - {x: 229, y: 4.5}
+      - {x: 239, y: 6.5}
+      - {x: 245, y: 18.5}
+      - {x: 245, y: 40.5}
+    - - {x: 291, y: 43.5}
+      - {x: 271, y: 43.5}
+      - {x: 257, y: 37.5}
+      - {x: 257, y: 27.5}
+      - {x: 262, y: 21.5}
+      - {x: 265, y: 21.5}
+      - {x: 267, y: 23.5}
+      - {x: 271, y: 23.5}
+      - {x: 268, y: 21.5}
+      - {x: 264, y: 21.5}
+      - {x: 260, y: 19.5}
+      - {x: 259, y: 10.5}
+      - {x: 263, y: 4.5}
+      - {x: 289, y: 4.5}
+      - {x: 299, y: 22.5}
+      - {x: 299, y: 29.5}
+      - {x: 297, y: 37.5}
+    - - {x: -243, y: 40.5}
+      - {x: -264, y: 40.5}
+      - {x: -266, y: 39.5}
+      - {x: -273, y: 15.5}
+      - {x: -273, y: 8.5}
+      - {x: -271, y: 6.5}
+      - {x: -253, y: 5.5}
+      - {x: -236, y: 5.5}
+      - {x: -231, y: 11.5}
+      - {x: -231, y: 20.5}
+      - {x: -235, y: 36.5}
+    - - {x: -40, y: 40.5}
+      - {x: -69, y: 40.5}
+      - {x: -73, y: 17.5}
+      - {x: -73, y: 6.5}
+      - {x: -38, y: 6.5}
+      - {x: -32, y: 12.5}
+      - {x: -32, y: 23.5}
+      - {x: -37, y: 35.5}
+    - - {x: -343, y: 77.5}
+      - {x: -334, y: 68.5}
+      - {x: -329, y: 68.5}
+      - {x: -325, y: 81.5}
+      - {x: -325, y: 106.5}
+      - {x: -327, y: 108.5}
+      - {x: -357, y: 108.5}
+      - {x: -361, y: 86.5}
+      - {x: -361, y: 74.5}
+      - {x: -356, y: 69.5}
+      - {x: -350, y: 68.5}
+      - {x: -340, y: 68.5}
+      - {x: -339, y: 70.5}
+      - {x: -341, y: 75.5}
+      - {x: -347, y: 76.5}
+    - - {x: -307, y: 108.5}
+      - {x: -313, y: 91.5}
+      - {x: -313, y: 72.5}
+      - {x: -305, y: 68.5}
+      - {x: -289, y: 68.5}
+      - {x: -277, y: 73.5}
+      - {x: -277, y: 108.5}
+    - - {x: -262, y: 108.5}
+      - {x: -265, y: 95.5}
+      - {x: -265, y: 77.5}
+      - {x: -262, y: 70.5}
+      - {x: -259, y: 72.5}
+      - {x: -258, y: 75.5}
+      - {x: -258, y: 71.5}
+      - {x: -257, y: 68.5}
+      - {x: -242, y: 68.5}
+      - {x: -236, y: 69.5}
+      - {x: -229, y: 80.5}
+      - {x: -229, y: 108.5}
+    - - {x: -191, y: 77.5}
+      - {x: -184, y: 81.5}
+      - {x: -184, y: 103.5}
+      - {x: -187, y: 108.5}
+      - {x: -206, y: 108.5}
+      - {x: -217, y: 100.5}
+      - {x: -217, y: 68.5}
+      - {x: -198, y: 68.5}
+      - {x: -192, y: 69.5}
+      - {x: -190, y: 73.5}
+      - {x: -191, y: 76.5}
+      - {x: -197, y: 77.5}
+    - - {x: -141, y: 108.5}
+      - {x: -166, y: 108.5}
+      - {x: -168, y: 107.5}
+      - {x: -172, y: 85.5}
+      - {x: -172, y: 72.5}
+      - {x: -165, y: 68.5}
+      - {x: -147, y: 68.5}
+      - {x: -139, y: 80.5}
+      - {x: -137, y: 84.5}
+      - {x: -137, y: 97.5}
+    - - {x: -95, y: 68.5}
+      - {x: -89, y: 81.5}
+      - {x: -89, y: 107.5}
+      - {x: -94, y: 108.5}
+      - {x: -116, y: 108.5}
+      - {x: -118, y: 104.5}
+      - {x: -125, y: 91.5}
+      - {x: -125, y: 75.5}
+      - {x: -122, y: 68.5}
+      - {x: -112, y: 68.5}
+      - {x: -109, y: 74.5}
+      - {x: -110, y: 71.5}
+      - {x: -107, y: 68.5}
+    - - {x: -52, y: 80.5}
+      - {x: -41, y: 89.5}
+      - {x: -41, y: 105.5}
+      - {x: -46, y: 108.5}
+      - {x: -69, y: 108.5}
+      - {x: -77, y: 97.5}
+      - {x: -77, y: 70.5}
+      - {x: -76, y: 68.5}
+      - {x: -46, y: 68.5}
+      - {x: -43, y: 77.5}
+      - {x: -44, y: 83.5}
+      - {x: -47, y: 84.5}
+    - - {x: -20, y: 108.5}
+      - {x: -24, y: 105.5}
+      - {x: -29, y: 97.5}
+      - {x: -29, y: 71.5}
+      - {x: -28, y: 68.5}
+      - {x: -5, y: 68.5}
+      - {x: 4, y: 81.5}
+      - {x: 4, y: 105.5}
+      - {x: -8, y: 108.5}
+    - - {x: 53, y: 108.5}
+      - {x: 35, y: 108.5}
+      - {x: 24, y: 96.5}
+      - {x: 24, y: 69.5}
+      - {x: 30, y: 68.5}
+      - {x: 54, y: 68.5}
+      - {x: 59, y: 73.5}
+      - {x: 61, y: 87.5}
+      - {x: 61, y: 101.5}
+    - - {x: 99, y: 85.5}
+      - {x: 110, y: 84.5}
+      - {x: 110, y: 107.5}
+      - {x: 107, y: 108.5}
+      - {x: 76, y: 108.5}
+      - {x: 73, y: 100.5}
+      - {x: 73, y: 70.5}
+      - {x: 78, y: 68.5}
+      - {x: 102, y: 68.5}
+      - {x: 107, y: 84.5}
+      - {x: 100, y: 85.5}
+      - {x: 98, y: 83.5}
+    - - {x: 156, y: 107.5}
+      - {x: 132, y: 107.5}
+      - {x: 122, y: 100.5}
+      - {x: 122, y: 69.5}
+      - {x: 128, y: 68.5}
+      - {x: 150, y: 68.5}
+      - {x: 155, y: 74.5}
+      - {x: 159, y: 81.5}
+      - {x: 159, y: 100.5}
+    - - {x: 185, y: 108.5}
+      - {x: 180, y: 106.5}
+      - {x: 172, y: 91.5}
+      - {x: 172, y: 75.5}
+      - {x: 175, y: 68.5}
+      - {x: 198, y: 68.5}
+      - {x: 210, y: 81.5}
+      - {x: 210, y: 100.5}
+      - {x: 205, y: 108.5}
+    - - {x: 234, y: 108.5}
+      - {x: 228, y: 106.5}
+      - {x: 223, y: 96.5}
+      - {x: 223, y: 74.5}
+      - {x: 227, y: 68.5}
+      - {x: 248, y: 68.5}
+      - {x: 251, y: 69.5}
+      - {x: 260, y: 75.5}
+      - {x: 260, y: 107.5}
+      - {x: 259, y: 108.5}
+    - - {x: 285, y: 108.5}
+      - {x: 280, y: 106.5}
+      - {x: 272, y: 91.5}
+      - {x: 272, y: 75.5}
+      - {x: 275, y: 68.5}
+      - {x: 298, y: 68.5}
+      - {x: 310, y: 81.5}
+      - {x: 310, y: 100.5}
+      - {x: 305, y: 108.5}
+    - - {x: -361, y: 174.5}
+      - {x: -361, y: 132.5}
+      - {x: -326, y: 132.5}
+      - {x: -326, y: 149.5}
+      - {x: -331, y: 174.5}
+    - - {x: -311, y: 174.5}
+      - {x: -313, y: 171.5}
+      - {x: -313, y: 144.5}
+      - {x: -310, y: 132.5}
+      - {x: -288, y: 132.5}
+      - {x: -283, y: 147.5}
+      - {x: -283, y: 164.5}
+      - {x: -286, y: 174.5}
+    - - {x: -271, y: 175.5}
+      - {x: -271, y: 134.5}
+      - {x: -265, y: 132.5}
+      - {x: -244, y: 132.5}
+      - {x: -241, y: 145.5}
+      - {x: -241, y: 171.5}
+      - {x: -248, y: 175.5}
+    - - {x: -229, y: 176.5}
+      - {x: -229, y: 158.5}
+      - {x: -225, y: 153.5}
+      - {x: -228, y: 143.5}
+      - {x: -228, y: 138.5}
+      - {x: -220, y: 132.5}
+      - {x: -201, y: 132.5}
+      - {x: -199, y: 137.5}
+      - {x: -199, y: 171.5}
+      - {x: -204, y: 176.5}
+    - - {x: -154, y: 172.5}
+      - {x: -162, y: 176.5}
+      - {x: -186, y: 176.5}
+      - {x: -187, y: 170.5}
+      - {x: -187, y: 132.5}
+      - {x: -165, y: 132.5}
+      - {x: -160, y: 133.5}
+      - {x: -144, y: 142.5}
+      - {x: -144, y: 152.5}
+    - - {x: -132, y: 174.5}
+      - {x: -132, y: 132.5}
+      - {x: -89, y: 132.5}
+      - {x: -89, y: 164.5}
+      - {x: -97, y: 171.5}
+      - {x: -108, y: 174.5}
+    - - {x: -67, y: 172.5}
+      - {x: -69, y: 170.5}
+      - {x: -69, y: 136.5}
+      - {x: -68, y: 132.5}
+      - {x: -45, y: 132.5}
+      - {x: -39, y: 146.5}
+      - {x: -39, y: 164.5}
+      - {x: -41, y: 172.5}
+    - - {x: -22, y: 173.5}
+      - {x: -25, y: 171.5}
+      - {x: -27, y: 159.5}
+      - {x: -27, y: 132.5}
+      - {x: -2, y: 132.5}
+      - {x: 9, y: 137.5}
+      - {x: 9, y: 169.5}
+      - {x: 0, y: 173.5}
+    - - {x: 103, y: 173.5}
+      - {x: 94, y: 173.5}
+      - {x: 88, y: 170.5}
+      - {x: 79, y: 155.5}
+      - {x: 79, y: 142.5}
+      - {x: 96, y: 132.5}
+      - {x: 118, y: 132.5}
+      - {x: 118, y: 166.5}
+      - {x: 116, y: 171.5}
+    - - {x: 135, y: 172.5}
+      - {x: 131, y: 167.5}
+      - {x: 131, y: 143.5}
+      - {x: 134, y: 132.5}
+      - {x: 155, y: 132.5}
+      - {x: 161, y: 145.5}
+      - {x: 161, y: 163.5}
+      - {x: 158, y: 172.5}
+    - - {x: 176, y: 173.5}
+      - {x: 173, y: 156.5}
+      - {x: 173, y: 132.5}
+      - {x: 202, y: 132.5}
+      - {x: 210, y: 137.5}
+      - {x: 210, y: 171.5}
+      - {x: 209, y: 173.5}
+    - - {x: 289, y: 173.5}
+      - {x: 287, y: 171.5}
+      - {x: 280, y: 153.5}
+      - {x: 280, y: 144.5}
+      - {x: 287, y: 136.5}
+      - {x: 300, y: 132.5}
+      - {x: 319, y: 132.5}
+      - {x: 319, y: 171.5}
+      - {x: 313, y: 173.5}
+    - - {x: 224, y: 172.5}
+      - {x: 222, y: 161.5}
+      - {x: 222, y: 137.5}
+      - {x: 243, y: 134.5}
+      - {x: 261, y: 134.5}
+      - {x: 267, y: 142.5}
+      - {x: 267, y: 149.5}
+      - {x: 259, y: 172.5}
+    - - {x: 49, y: 173.5}
+      - {x: 37, y: 173.5}
+      - {x: 31, y: 170.5}
+      - {x: 21, y: 152.5}
+      - {x: 21, y: 135.5}
+      - {x: 62, y: 135.5}
+      - {x: 66, y: 139.5}
+      - {x: 66, y: 152.5}
+      - {x: 56, y: 172.5}
+    - - {x: -329, y: 218.5}
+      - {x: -332, y: 236.5}
+      - {x: -338, y: 239.5}
+      - {x: -358, y: 239.5}
+      - {x: -361, y: 235.5}
+      - {x: -361, y: 216.5}
+      - {x: -358, y: 209.5}
+      - {x: -349, y: 196.5}
+      - {x: -326, y: 196.5}
+      - {x: -325, y: 198.5}
+      - {x: -325, y: 202.5}
+      - {x: -329, y: 204.5}
+    - - {x: -307, y: 239.5}
+      - {x: -313, y: 238.5}
+      - {x: -313, y: 214.5}
+      - {x: -303, y: 196.5}
+      - {x: -277, y: 196.5}
+      - {x: -277, y: 239.5}
+    - - {x: -240, y: 239.5}
+      - {x: -262, y: 239.5}
+      - {x: -265, y: 235.5}
+      - {x: -265, y: 215.5}
+      - {x: -257, y: 197.5}
+      - {x: -253, y: 196.5}
+      - {x: -235, y: 196.5}
+      - {x: -229, y: 200.5}
+      - {x: -229, y: 207.5}
+      - {x: -236, y: 237.5}
+    - - {x: -214, y: 239.5}
+      - {x: -217, y: 233.5}
+      - {x: -217, y: 220.5}
+      - {x: -209, y: 197.5}
+      - {x: -205, y: 196.5}
+      - {x: -186, y: 196.5}
+      - {x: -182, y: 200.5}
+      - {x: -182, y: 209.5}
+      - {x: -190, y: 239.5}
+    - - {x: -170, y: 238.5}
+      - {x: -170, y: 212.5}
+      - {x: -162, y: 196.5}
+      - {x: -134, y: 196.5}
+      - {x: -134, y: 235.5}
+      - {x: -144, y: 238.5}
+    - - {x: -112, y: 230.5}
+      - {x: -114, y: 227.5}
+      - {x: -114, y: 209.5}
+      - {x: -104, y: 196.5}
+      - {x: -77, y: 196.5}
+      - {x: -77, y: 218.5}
+      - {x: -84, y: 230.5}
+    - - {x: -65, y: 225.5}
+      - {x: -65, y: 201.5}
+      - {x: -63, y: 196.5}
+      - {x: -23, y: 196.5}
+      - {x: -23, y: 210.5}
+      - {x: -35, y: 225.5}
+    - - {x: 13, y: 224.5}
+      - {x: 11, y: 225.5}
+      - {x: -6, y: 225.5}
+      - {x: -11, y: 218.5}
+      - {x: -11, y: 203.5}
+      - {x: -6, y: 196.5}
+      - {x: 31, y: 196.5}
+      - {x: 31, y: 206.5}
+      - {x: 30, y: 210.5}
+    - - {x: 55, y: 238.5}
+      - {x: 52, y: 234.5}
+      - {x: 52, y: 207.5}
+      - {x: 54, y: 196.5}
+      - {x: 80, y: 196.5}
+      - {x: 82, y: 207.5}
+      - {x: 82, y: 230.5}
+      - {x: 80, y: 238.5}
+    - - {x: 97, y: 239.5}
+      - {x: 95, y: 232.5}
+      - {x: 95, y: 199.5}
+      - {x: 101, y: 196.5}
+      - {x: 126, y: 196.5}
+      - {x: 127, y: 198.5}
+      - {x: 127, y: 236.5}
+      - {x: 125, y: 239.5}
+    - - {x: 166, y: 240.5}
+      - {x: 145, y: 240.5}
+      - {x: 139, y: 239.5}
+      - {x: 139, y: 198.5}
+      - {x: 140, y: 196.5}
+      - {x: 171, y: 196.5}
+      - {x: 171, y: 231.5}
+      - {x: 170, y: 239.5}
+    - - {x: 216, y: 213.5}
+      - {x: 220, y: 215.5}
+      - {x: 216, y: 238.5}
+      - {x: 214, y: 240.5}
+      - {x: 191, y: 240.5}
+      - {x: 184, y: 235.5}
+      - {x: 184, y: 196.5}
+      - {x: 205, y: 196.5}
+      - {x: 222, y: 205.5}
+      - {x: 222, y: 211.5}
+      - {x: 220, y: 213.5}
+      - {x: 212, y: 213.5}
+    - - {x: 270, y: 239.5}
+      - {x: 269, y: 240.5}
+      - {x: 241, y: 240.5}
+      - {x: 235, y: 229.5}
+      - {x: 235, y: 196.5}
+      - {x: 271, y: 196.5}
+      - {x: 276, y: 208.5}
+      - {x: 276, y: 216.5}
+      - {x: 275, y: 221.5}
+    - - {x: 312, y: 238.5}
+      - {x: 297, y: 238.5}
+      - {x: 293, y: 236.5}
+      - {x: 288, y: 208.5}
+      - {x: 288, y: 199.5}
+      - {x: 294, y: 197.5}
+      - {x: 296, y: 196.5}
+      - {x: 328, y: 196.5}
+      - {x: 330, y: 202.5}
+      - {x: 330, y: 219.5}
+      - {x: 322, y: 236.5}
+    - - {x: -339, y: 303.5}
+      - {x: -355, y: 303.5}
+      - {x: -361, y: 302.5}
+      - {x: -361, y: 282.5}
+      - {x: -356, y: 261.5}
+      - {x: -352, y: 260.5}
+      - {x: -328, y: 260.5}
+      - {x: -328, y: 273.5}
+      - {x: -332, y: 301.5}
+    - - {x: -312, y: 302.5}
+      - {x: -316, y: 298.5}
+      - {x: -316, y: 275.5}
+      - {x: -308, y: 260.5}
+      - {x: -284, y: 260.5}
+      - {x: -283, y: 261.5}
+      - {x: -283, y: 281.5}
+      - {x: -289, y: 302.5}
+    - - {x: -271, y: 303.5}
+      - {x: -271, y: 278.5}
+      - {x: -264, y: 260.5}
+      - {x: -238, y: 260.5}
+      - {x: -238, y: 297.5}
+      - {x: -246, y: 303.5}
+    - - {x: -225, y: 302.5}
+      - {x: -226, y: 298.5}
+      - {x: -226, y: 283.5}
+      - {x: -218, y: 260.5}
+      - {x: -194, y: 260.5}
+      - {x: -193, y: 262.5}
+      - {x: -193, y: 291.5}
+      - {x: -194, y: 302.5}
+    - - {x: -148, y: 303.5}
+      - {x: -180, y: 303.5}
+      - {x: -181, y: 300.5}
+      - {x: -181, y: 283.5}
+      - {x: -175, y: 268.5}
+      - {x: -172, y: 260.5}
+      - {x: -150, y: 260.5}
+      - {x: -148, y: 262.5}
+    - - {x: -135, y: 302.5}
+      - {x: -136, y: 301.5}
+      - {x: -136, y: 278.5}
+      - {x: -128, y: 260.5}
+      - {x: -104, y: 260.5}
+      - {x: -103, y: 261.5}
+      - {x: -103, y: 291.5}
+      - {x: -104, y: 302.5}
+    - - {x: -90, y: 301.5}
+      - {x: -91, y: 298.5}
+      - {x: -91, y: 279.5}
+      - {x: -85, y: 261.5}
+      - {x: -80, y: 260.5}
+      - {x: -58, y: 260.5}
+      - {x: -58, y: 285.5}
+      - {x: -59, y: 301.5}
+    - - {x: -46, y: 284.5}
+      - {x: -37, y: 260.5}
+      - {x: -13, y: 260.5}
+      - {x: -13, y: 293.5}
+      - {x: -14, y: 303.5}
+      - {x: -45, y: 303.5}
+      - {x: -46, y: 299.5}
+    - - {x: 0, y: 303.5}
+      - {x: -1, y: 299.5}
+      - {x: -1, y: 287.5}
+      - {x: 2, y: 281.5}
+      - {x: 6, y: 268.5}
+      - {x: 9, y: 260.5}
+      - {x: 32, y: 260.5}
+      - {x: 33, y: 262.5}
+      - {x: 33, y: 284.5}
+      - {x: 31, y: 303.5}
+    - - {x: 49, y: 303.5}
+      - {x: 45, y: 296.5}
+      - {x: 45, y: 285.5}
+      - {x: 55, y: 260.5}
+      - {x: 79, y: 260.5}
+      - {x: 79, y: 296.5}
+      - {x: 72, y: 303.5}
+    - - {x: 91, y: 303.5}
+      - {x: 91, y: 266.5}
+      - {x: 102, y: 260.5}
+      - {x: 127, y: 260.5}
+      - {x: 127, y: 275.5}
+      - {x: 125, y: 284.5}
+      - {x: 118, y: 303.5}
+    - - {x: 139, y: 284.5}
+      - {x: 148, y: 260.5}
+      - {x: 175, y: 260.5}
+      - {x: 175, y: 284.5}
+      - {x: 173, y: 295.5}
+      - {x: 164, y: 303.5}
+      - {x: 141, y: 303.5}
+      - {x: 139, y: 302.5}
+    - - {x: 192, y: 303.5}
+      - {x: 187, y: 302.5}
+      - {x: 187, y: 287.5}
+      - {x: 195, y: 261.5}
+      - {x: 199, y: 260.5}
+      - {x: 217, y: 260.5}
+      - {x: 223, y: 265.5}
+      - {x: 223, y: 271.5}
+      - {x: 215, y: 303.5}
+    - - {x: 240, y: 303.5}
+      - {x: 235, y: 302.5}
+      - {x: 235, y: 287.5}
+      - {x: 243, y: 261.5}
+      - {x: 247, y: 260.5}
+      - {x: 267, y: 260.5}
+      - {x: 270, y: 263.5}
+      - {x: 270, y: 277.5}
+      - {x: 262, y: 303.5}
+    - - {x: 288, y: 303.5}
+      - {x: 283, y: 302.5}
+      - {x: 283, y: 287.5}
+      - {x: 291, y: 261.5}
+      - {x: 294, y: 260.5}
+      - {x: 317, y: 260.5}
+      - {x: 319, y: 263.5}
+      - {x: 319, y: 277.5}
+      - {x: 311, y: 303.5}
+    - - {x: -361, y: 340.5}
+      - {x: -361, y: 326.5}
+      - {x: -359, y: 324.5}
+      - {x: -313, y: 324.5}
+      - {x: -313, y: 339.5}
+      - {x: -314, y: 340.5}
+    - - {x: -312, y: 340.5}
+      - {x: -312, y: 324.5}
+      - {x: -296, y: 324.5}
+      - {x: -294, y: 325.5}
+      - {x: -294, y: 339.5}
+      - {x: -299, y: 340.5}
+  spritePackingTag: atlasSonic
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
