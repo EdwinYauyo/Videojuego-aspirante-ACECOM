@@ -49,6 +49,7 @@
      <Compile Include="Assets\CheckInGround.cs" />
      <Compile Include="Assets\Scripts\CoinT.cs" />
      <Compile Include="Assets\Scripts\ControllerSonic2.cs" />
+     <Compile Include="Assets\Scripts\DeathZone.cs" />
      <Compile Include="Assets\Scripts\SonicController.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity2018/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
