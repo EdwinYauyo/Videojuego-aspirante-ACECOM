@@ -9,14 +9,15 @@ public class DeathZone : MonoBehaviour {
     public GameObject DeathText;
     public GameObject RespawnText;
     public Transform RespawnPosition;
+
     public IEnumerator Respawn()
     {
         yield return new WaitForSeconds(1.5f);
-        
         DeathText.gameObject.SetActive(false);
+        RespawnText.gameObject.SetActive(true);
         yield return new WaitForSeconds(1.5f);
-        PlayerSonic.GetComponent<Transform>().position = RespawnPosition.position;
-        PlayerSonic.SetActive(true);
+        PlayerSonic.gameObject.GetComponent<Transform>().position = RespawnPosition.position;        
+        PlayerSonic.gameObject.SetActive(true);
         RespawnText.gameObject.SetActive(false);
     }
 
@@ -26,7 +27,7 @@ public class DeathZone : MonoBehaviour {
         {
            col.gameObject.SetActive(false);
            DeathText.gameObject.SetActive(true);
-            RespawnText.gameObject.SetActive(true);
+            
             StartCoroutine(Respawn());
 
 
