@@ -79,6 +79,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\CheckInGround.cs" />
     <Compile Include="Assets\Scripts\CoinT.cs" />
     <Compile Include="Assets\Scripts\ControllerSonic2.cs" />
