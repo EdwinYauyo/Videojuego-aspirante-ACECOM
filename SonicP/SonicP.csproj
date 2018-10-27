@@ -81,6 +81,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\CheckInGround.cs" />
+    <Compile Include="Assets\Scripts\CheckPoint.cs" />
     <Compile Include="Assets\Scripts\CoinT.cs" />
     <Compile Include="Assets\Scripts\ControllerSonic2.cs" />
     <Compile Include="Assets\Scripts\DeathZone.cs" />

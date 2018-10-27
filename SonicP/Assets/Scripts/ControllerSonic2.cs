@@ -15,6 +15,8 @@ public class ControllerSonic2 : MonoBehaviour {
     private Rigidbody2D rb2d;
     private Animator anim;
     private bool JumpD;
+
+    public Vector3 respownPoint;
     // Use this for initialization
 
     void Start () {
@@ -67,6 +69,12 @@ public class ControllerSonic2 : MonoBehaviour {
             Destroy(col.gameObject);
             _refCoinGame.points += 1;
             _refCoinGame.pointsText.text = cadCoins + _refCoinGame.points;
+        }
+        if (col.tag == "FallDectector"){
+            transform.position = respownPoint;
+        }
+        if (col.tag == "CheckPoint"){
+            respownPoint = col.transform.position;
         }
     }
 }
