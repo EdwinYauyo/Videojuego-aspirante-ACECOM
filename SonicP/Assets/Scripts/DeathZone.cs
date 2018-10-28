@@ -16,17 +16,17 @@ public class DeathZone : MonoBehaviour {
         DeathText.gameObject.SetActive(false);
         RespawnText.gameObject.SetActive(true);
         yield return new WaitForSeconds(1.5f);
-        PlayerSonic.gameObject.GetComponent<Transform>().position = RespawnPosition.position;
+        //PlayerSonic.gameObject.GetComponent<Transform>().position = RespawnPosition.position;
         PlayerSonic.gameObject.SetActive(true);
         RespawnText.gameObject.SetActive(false);
     }
 
   
-    private void OnTriggerEnter2D(Collider2D col)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (col.gameObject.tag == "Sonic")
+        if (other.gameObject.tag == "Sonic")
         {
-            col.gameObject.SetActive(false);
+            other.gameObject.SetActive(false);
             DeathText.gameObject.SetActive(true);
             StartCoroutine(Respawn());
         }
