@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ControllerSonic2 : MonoBehaviour {
+public class ControllerSonic : MonoBehaviour {
 
     public float maxSpeed = 5f;
     public float speed = 2f;

@@ -5,10 +5,10 @@ using UnityEngine;
 public class CheckInGround : MonoBehaviour
 {
 
-    private ControllerSonic2 PlayerSonic;
+    private ControllerSonic PlayerSonic;
 	// Use this for initialization
 	void Start () {
-        PlayerSonic = GetComponent<ControllerSonic2>();
+        PlayerSonic = GetComponent<ControllerSonic>();
 
 	}
 	
