@@ -25,7 +25,7 @@ public class ReaparitionObject : MonoBehaviour {
 
     }
 
-    private void OnCollisionEnter2D(Collision2D col)
+    private void OnTriggerEnter2D(Collision2D col)
     {
         if (col.gameObject.CompareTag("FallDectector"))
         {
