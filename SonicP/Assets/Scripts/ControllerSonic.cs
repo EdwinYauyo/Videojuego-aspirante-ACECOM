@@ -11,6 +11,15 @@ public class ControllerSonic : MonoBehaviour {
     public bool InGround;
     public float JumpSonic = 6.5f;
 
+    public AudioClip CoinSound = null;
+    public float volumen = 1f;
+    protected Transform Position = null;
+
+    public AudioClip DeadSound = null;
+    public float volumen3 = 1f;
+    protected Transform Position3 = null;
+
+
     private string cadCoins;
     private Rigidbody2D rb2d;
     private Animator anim;
@@ -23,6 +32,7 @@ public class ControllerSonic : MonoBehaviour {
         rb2d = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         cadCoins = ("Points: ");
+        Position = transform;
     }
 
     void Update ()
@@ -69,12 +79,23 @@ public class ControllerSonic : MonoBehaviour {
             Destroy(col.gameObject);
             _refCoinGame.points += 1;
             _refCoinGame.pointsText.text = cadCoins + _refCoinGame.points;
+            AudioSource.PlayClipAtPoint(CoinSound, Position.position, volumen);
         }
+
+               
+
         if (col.tag == "FallDectector"){
             transform.position = respownPoint;
+            if (DeadSound) AudioSource.PlayClipAtPoint(DeadSound, Position3.position, volumen3);
         }
         if (col.tag == "CheckPoint"){
             respownPoint = col.transform.position;
+            
         }
+    }
+
+    public void EnemyJump()
+    {
+        JumpD = true;
     }
 }

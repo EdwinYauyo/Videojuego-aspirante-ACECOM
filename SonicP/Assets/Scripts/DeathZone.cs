@@ -9,9 +9,11 @@ public class DeathZone : MonoBehaviour {
     public GameObject DeathText;
     public GameObject RespawnText;
     public Transform RespawnPosition;
-    
-  public IEnumerator Respawn()
-    {
+
+
+
+    public IEnumerator Respawn()
+    {   
         yield return new WaitForSeconds(1.5f);
         DeathText.gameObject.SetActive(false);
         RespawnText.gameObject.SetActive(true);
@@ -28,7 +30,10 @@ public class DeathZone : MonoBehaviour {
         {
             other.gameObject.SetActive(false);
             DeathText.gameObject.SetActive(true);
+            
+            
             StartCoroutine(Respawn());
+
         }
     }
     // Use this for initialization
