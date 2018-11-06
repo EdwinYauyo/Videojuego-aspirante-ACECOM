@@ -71,7 +71,9 @@ public class ControllerSonic : MonoBehaviour {
             JumpD = false;
         }
 	}
-
+    public GameObject Player;
+    public GameObject Apar;
+    public GameObject bigEnemy;
     void OnTriggerEnter2D(Collider2D col)
     {
         if (col.CompareTag("Coin"))
@@ -82,7 +84,23 @@ public class ControllerSonic : MonoBehaviour {
             AudioSource.PlayClipAtPoint(CoinSound, Position.position, volumen);
         }
 
-               
+        if (col.gameObject.CompareTag("FinalDoor"))
+        {
+            Apar.SetActive(true);
+            Player.SetActive(false);
+        }
+
+        
+
+
+        if (col.gameObject.CompareTag("Bandera"))
+        {
+            bigEnemy.SetActive(true);
+
+        }
+    
+
+
 
         if (col.tag == "FallDectector"){
             transform.position = respownPoint;
@@ -92,8 +110,11 @@ public class ControllerSonic : MonoBehaviour {
             respownPoint = col.transform.position;
             
         }
+
+
     }
 
+    
     public void EnemyJump()
     {
         JumpD = true;

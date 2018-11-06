@@ -45,16 +45,12 @@ public class MovementFish : MonoBehaviour
         }
         if (col.CompareTag("LimitFishDown"))
         {
-            Invoke("Respawn", respawnDelay);
+            rb2d.velocity = Vector3.zero;
+            transform.position = start;
+            JumpFish = 1.2f;
+            transform.localScale = new Vector3(1f, 1f, 1f);
         }
         
     }
-    void Respawn()
-    {
-        transform.position = start;
-        rb2d.velocity = Vector3.zero;
-        JumpFish = 1.2f;
-        transform.localScale = new Vector3(1f, 1f, 1f);
-
-    }
+    
 }

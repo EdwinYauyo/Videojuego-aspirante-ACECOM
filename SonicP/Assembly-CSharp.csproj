@@ -46,11 +46,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\CheckInGround.cs" />
+     <Compile Include="Assets\Scripts\Aparition.cs" />
+     <Compile Include="Assets\Scripts\BigEnemyAparition.cs" />
+     <Compile Include="Assets\Scripts\BigEnemyMovement.cs" />
+     <Compile Include="Assets\Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\Scripts\CheckInGround.cs" />
+     <Compile Include="Assets\Scripts\CheckPoint.cs" />
+     <Compile Include="Assets\Scripts\CheckPoint2.cs" />
      <Compile Include="Assets\Scripts\CoinT.cs" />
-     <Compile Include="Assets\Scripts\ControllerSonic2.cs" />
+     <Compile Include="Assets\Scripts\ControllerSonic.cs" />
+     <Compile Include="Assets\Scripts\CrabMovement.cs" />
      <Compile Include="Assets\Scripts\DeathZone.cs" />
-     <Compile Include="Assets\Scripts\SonicController.cs" />
+     <Compile Include="Assets\Scripts\End.cs" />
+     <Compile Include="Assets\Scripts\MovementFish.cs" />
+     <Compile Include="Assets\Scripts\PlatformFall.cs" />
+     <Compile Include="Assets\Scripts\ReturnPosition.cs" />
+     <Compile Include="Assets\Scripts\ReturnPositionExternal.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity2018/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
