@@ -79,6 +79,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Aparition.cs" />
+    <Compile Include="Assets\Scripts\BigEnemyAparition.cs" />
+    <Compile Include="Assets\Scripts\BigEnemyMovement.cs" />
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\CheckInGround.cs" />
     <Compile Include="Assets\Scripts\CheckPoint.cs" />
@@ -87,8 +90,11 @@
     <Compile Include="Assets\Scripts\ControllerSonic.cs" />
     <Compile Include="Assets\Scripts\CrabMovement.cs" />
     <Compile Include="Assets\Scripts\DeathZone.cs" />
+    <Compile Include="Assets\Scripts\End.cs" />
     <Compile Include="Assets\Scripts\MovementFish.cs" />
     <Compile Include="Assets\Scripts\PlatformFall.cs" />
+    <Compile Include="Assets\Scripts\ReturnPosition.cs" />
+    <Compile Include="Assets\Scripts\ReturnPositionExternal.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
