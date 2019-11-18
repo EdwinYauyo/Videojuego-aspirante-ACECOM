@@ -1,2 +1,3 @@
 # Videojuego aspirante ACECOM
-acá pez :v
+
+Proyecto de aspirante del PAM de ACECOM.
